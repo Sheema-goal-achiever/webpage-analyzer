@@ -1,9 +1,7 @@
 fastapi
-uvicorn
+uvicorn[standard]
 streamlit
 requests
-pandas
+pydantic
 beautifulsoup4
-lxml
-sqlalchemy
-playwright
+pytest
